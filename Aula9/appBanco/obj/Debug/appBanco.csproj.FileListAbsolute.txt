@@ -1,0 +1,10 @@
+C:\Users\aluno\source\repos\Aula9\appBanco\bin\Debug\appBanco.exe.config
+C:\Users\aluno\source\repos\Aula9\appBanco\bin\Debug\appBanco.exe
+C:\Users\aluno\source\repos\Aula9\appBanco\bin\Debug\appBanco.pdb
+C:\Users\aluno\source\repos\Aula9\appBanco\obj\Debug\appBanco.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\Aula9\appBanco\obj\Debug\appBanco.banco.resources
+C:\Users\aluno\source\repos\Aula9\appBanco\obj\Debug\appBanco.Properties.Resources.resources
+C:\Users\aluno\source\repos\Aula9\appBanco\obj\Debug\appBanco.csproj.GenerateResource.cache
+C:\Users\aluno\source\repos\Aula9\appBanco\obj\Debug\appBanco.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\Aula9\appBanco\obj\Debug\appBanco.exe
+C:\Users\aluno\source\repos\Aula9\appBanco\obj\Debug\appBanco.pdb
